@@ -2,6 +2,9 @@
 
 **Universidad EAFIT – Introducción a la Inteligencia Artificial (2026-01)**
 
+**Equipo:**
+Emanuel Felipe Cortés, Mateo García, Jose Daniel Castañeda
+
 ---
 
 ## Descripción General
